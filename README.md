@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Adrian and I'm a IT Support Technician, from Montevideo, Uruguay!</p>
+<p align="left">My name is Adrian and I'm an IT Support Technician, from Montevideo, Uruguay!</p>
 
 ###
 
