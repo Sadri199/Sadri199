@@ -47,6 +47,15 @@
   <img src="https://streak-stats.demolab.com?user=Sadri199&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/adrian-satriani-jardin-86351b142/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
 
 ###
 
