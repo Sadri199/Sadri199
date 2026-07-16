@@ -1,8 +1,8 @@
-<h1 align="left">Hello everyone!!</h1>
+<h1 align="left">Hello everyone!</h1>
 
 ###
 
-<p align="left">My name is Adrian and I'm an IT Support Technician, from Montevideo, Uruguay!</p>
+<p align="left">My name is Adrian, I work as an IT Support Analyst and I'm a Fullstack Developer, from Montevideo, Uruguay!</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 1997!<br>📚 I'm currently learning Fullstack Developer!<br>🎯 Goals: Be part of a big project.<br>🎲 Fun fact: This alias was invented by my previous boss. Shoutouts to Santiago!</p>
+<p align="left">✨ Creating bugs since 1997!<br>📚 I'm a Fullstack Developer, trying to start my Cyber Security career!<br>🎯 Goals: Be part of a big project.<br>🎲 Fun fact: This alias was invented by my previous boss!</p>
 
 ###
 
@@ -36,6 +36,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="node logo"  />
 </div>
 
 ###
